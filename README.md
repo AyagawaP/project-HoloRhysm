@@ -3,6 +3,9 @@
 
 願望だけでrepositoryを建てないでくださる？？
 
+## 命名理由
+holo + rhythm + -ism
+
 ## 規約
 基本的にはAeTOS Type-E  
 [リンク](https://github.com/AyaExpTech/licence/blob/main/AeTOS.md)
